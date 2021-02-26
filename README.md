@@ -2,4 +2,4 @@
 # Author
   * Goomy
 # Preview
-  * [Link](https)
+  * [Link](https://goomy-wright.github.io/login-form/)
